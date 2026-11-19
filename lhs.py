@@ -8,7 +8,7 @@ Created on Mon Oct 30 14:17:57 2017
 
 import numpy as np
 import copy
-from pyDOE import *
+from pydoe import lhs
 from scipy import stats
 import matplotlib.pyplot as plt
 

@@ -1,0 +1,588 @@
+{
+ "incin_per_kg_composite": {
+  "AP": 0.0135,
+  "GWP": 4.5,
+  "EFW": 603.0,
+  "EP": 0.0441,
+  "HTC": 1.08e-05,
+  "HTNC": 4.5e-06,
+  "ODP": 2.61e-07,
+  "PMFP": 0.0009,
+  "MIR": 0.144,
+  "cost": 1.62
+ },
+ "ground": {
+  "cost": [
+   136.8175943362225,
+   166.73873019325544,
+   197.74310548011505
+  ],
+  "cost_parts": {
+   "capital_cost": 0.085825543996262,
+   "OM_cost": 157.0335673410144,
+   "energy_cost": 9.435246515300639,
+   "total_cost": 166.73873019325544
+  },
+  "AP": [
+   0.26609238448723144,
+   0.31172272406158485,
+   0.36838316090120066
+  ],
+  "ratio_AP": [
+   19.71054699905418,
+   23.09057215270999,
+   27.287641548237087
+  ],
+  "GWP": [
+   53.3078135761951,
+   63.29576662864385,
+   75.68932507327895
+  ],
+  "ratio_GWP": [
+   11.846180794710023,
+   14.06572591747641,
+   16.81985001628421
+  ],
+  "EFW": [
+   607.8869763811014,
+   702.2916054348186,
+   819.050909243209
+  ],
+  "ratio_EFW": [
+   1.0081044384429543,
+   1.1646626955801305,
+   1.3582933818295342
+  ],
+  "EP": [
+   0.34396596734373647,
+   0.410255198349987,
+   0.4924543857682012
+  ],
+  "ratio_EP": [
+   7.799681799177698,
+   9.302838964852313,
+   11.166766117192772
+  ],
+  "HTC": [
+   3.9133372729168166e-06,
+   4.587426552509834e-06,
+   5.423985908537424e-06
+  ],
+  "ratio_HTC": [
+   0.36234604378859414,
+   0.4247617178249847,
+   0.5022209174571689
+  ],
+  "HTNC": [
+   1.3981773317181687e-05,
+   1.657682905312947e-05,
+   1.980594416186283e-05
+  ],
+  "ratio_HTNC": [
+   3.107060737151486,
+   3.6837397895843265,
+   4.401320924858406
+  ],
+  "ODP": [
+   8.931634519455487e-06,
+   1.0228731908979459e-05,
+   1.1848347017667418e-05
+  ],
+  "ratio_ODP": [
+   34.22082191362255,
+   39.190543712564974,
+   45.39596558493263
+  ],
+  "PMFP": [
+   0.03863331801616624,
+   0.04417982593098829,
+   0.05105670375112282
+  ],
+  "ratio_PMFP": [
+   42.92590890685138,
+   49.088695478875884,
+   56.72967083458091
+  ],
+  "MIR": [
+   2.7111311778661125,
+   3.126138506542045,
+   3.637035213759458
+  ],
+  "ratio_MIR": [
+   18.827299846292448,
+   21.709295184319757,
+   25.257188984440685
+  ],
+  "ratio_cost": [
+   84.45530514581635,
+   102.92514209460211,
+   122.0636453580957
+  ],
+  "capital_impacts": {
+   "AP": 2.3308356914736604e-05,
+   "GWP": 2.0486107274350085e-05,
+   "EFW": 5.2798391426099105e-05,
+   "EP": 1.1316047389566692e-05,
+   "HTC": 0.00035218816613746525,
+   "HTNC": 7.094655042526133e-05,
+   "ODP": 7.394307843624973e-06,
+   "PMFP": 8.780417535830646e-05,
+   "MIR": 2.6671239701791083e-05
+  },
+  "OM_impacts": {
+   "AP": 0.3492335530936187,
+   "GWP": 0.29897954654046316,
+   "EFW": 0.4066402299169828,
+   "EP": 0.2809882967706355,
+   "HTC": 0.34710792905573734,
+   "HTNC": 0.30179592322603466,
+   "ODP": 0.4373038460309897,
+   "PMFP": 0.44572113320534673,
+   "MIR": 0.42352545119334667
+  },
+  "energy_impacts": {
+   "AP": 0.6510168439916862,
+   "GWP": 0.7010232138017415,
+   "EFW": 0.5929611749871415,
+   "EP": 0.7190579237350208,
+   "HTC": 0.652687645893368,
+   "HTNC": 0.6981526211497555,
+   "ODP": 0.5628378979523412,
+   "PMFP": 0.5540524010512462,
+   "MIR": 0.5764413201278324
+  }
+ },
+ "bulk": {
+  "cost": [
+   417.5128200055088,
+   490.43852126192496,
+   569.2345007787993
+  ],
+  "cost_parts": {
+   "capital_cost": 0.08616003164744535,
+   "OM_cost": 157.31379975856365,
+   "energy_cost": 332.9903509683037,
+   "total_cost": 490.43852126192496
+  },
+  "AP": [
+   6.001791584749265,
+   7.268481265373787,
+   8.538683770671398
+  ],
+  "ratio_AP": [
+   444.57715442587147,
+   538.4060196573176,
+   632.4950941238072
+  ],
+  "GWP": [
+   1307.2631273733314,
+   1584.284000551563,
+   1862.07574875576
+  ],
+  "ratio_GWP": [
+   290.50291719407363,
+   352.0631112336807,
+   413.79461083461337
+  ],
+  "EFW": [
+   12378.526821988382,
+   14976.221500629556,
+   17583.253839022662
+  ],
+  "ratio_EFW": [
+   20.528236852385376,
+   24.836188226583012,
+   29.15962494033609
+  ],
+  "EP": [
+   8.681036235542587,
+   10.5217299658245,
+   12.368082295922967
+  ],
+  "ratio_EP": [
+   196.84889422999063,
+   238.58798108445578,
+   280.4553808599312
+  ],
+  "HTC": [
+   8.853232592999138e-05,
+   0.0001072224396921936,
+   0.00012596590402848344
+  ],
+  "ratio_HTC": [
+   8.197437586110313,
+   9.928003675203112,
+   11.663509632266985
+  ],
+  "HTNC": [
+   0.00034105771969772424,
+   0.0004132691622259377,
+   0.00048571128742476736
+  ],
+  "ratio_HTNC": [
+   75.79060437727205,
+   91.83759160576393,
+   107.9358416499483
+  ],
+  "ODP": [
+   0.0001716205602408468,
+   0.0002075569587102655,
+   0.0002435836945013822
+  ],
+  "ratio_ODP": [
+   657.5500392369609,
+   795.2373896945037,
+   933.2708601585524
+  ],
+  "PMFP": [
+   0.7304851117605262,
+   0.8832113860464541,
+   1.0364189758111644
+  ],
+  "ratio_PMFP": [
+   811.6501241783625,
+   981.3459844960602,
+   1151.5766397901828
+  ],
+  "MIR": [
+   53.641030479930976,
+   64.9131340584629,
+   76.17514164295058
+  ],
+  "ratio_MIR": [
+   372.5071561106318,
+   450.7856531837702,
+   528.9940391871569
+  ],
+  "ratio_cost": [
+   257.72396296636344,
+   302.7398279394598,
+   351.3793214683946
+  ],
+  "capital_impacts": {
+   "AP": 1.0003803270188006e-06,
+   "GWP": 8.197912311628941e-07,
+   "EFW": 2.477171877597327e-06,
+   "EP": 4.4189337565990485e-07,
+   "HTC": 1.5058842945041954e-05,
+   "HTNC": 2.847998314907433e-06,
+   "ODP": 3.6465938207966945e-07,
+   "PMFP": 4.395296438847878e-06,
+   "MIR": 1.286131481400268e-06
+  },
+  "OM_impacts": {
+   "AP": 0.01497720095062481,
+   "GWP": 0.011946590570946705,
+   "EFW": 0.019078463131155764,
+   "EP": 0.01095968358976898,
+   "HTC": 0.014848173976219315,
+   "HTNC": 0.01211177499683323,
+   "ODP": 0.021549672435421826,
+   "PMFP": 0.022303942659057534,
+   "MIR": 0.020395735676697162
+  },
+  "energy_impacts": {
+   "AP": 0.9849181947398691,
+   "GWP": 0.9880005244674348,
+   "EFW": 0.9808997603087213,
+   "EP": 0.9890402478316295,
+   "HTC": 0.9850810832981788,
+   "HTNC": 0.9878749650099754,
+   "ODP": 0.9784778021645447,
+   "PMFP": 0.9776723438399836,
+   "MIR": 0.9792957955796594
+  }
+ },
+ "spearman": {
+  "cost": {
+   "discount_rate": 0.01,
+   "tax_rate": -0.02,
+   "steel_fraction": -0.0,
+   "concrete_fraction": 0.01,
+   "electricity_cost": 0.03,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.03,
+   "vacuum_pump_power": 0.04,
+   "filtration_time": 0.06,
+   "heating_efficiency": -0.02,
+   "residual_liquid_on_solids": -0.01,
+   "latent_heat_drying": -0.0,
+   "drying_efficiency": -0.01,
+   "acid_liquor_HCl_fraction": 0.15,
+   "acetone_recovery": -0.14,
+   "P66614_Cl_amount": 0.01,
+   "HCL_amount": 0.07,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.04,
+   "NaOH_amount": 0.07,
+   "recovery_fraction": -0.03,
+   "P66614_Cl_cost": 0.04,
+   "HCL_cost": 0.67,
+   "H2O2_cost": 0.04,
+   "acetone_cost": 0.24,
+   "hotplate_cost": -0.01,
+   "NaOH_cost": 0.65
+  },
+  "AP": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.0,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.77,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.02,
+   "acetone_recovery": -0.12,
+   "P66614_Cl_amount": 0.02,
+   "HCL_amount": 0.02,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.03,
+   "NaOH_amount": 0.02,
+   "recovery_fraction": -0.04,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "GWP": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.0,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.77,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.02,
+   "acetone_recovery": -0.13,
+   "P66614_Cl_amount": 0.0,
+   "HCL_amount": 0.02,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.03,
+   "NaOH_amount": 0.01,
+   "recovery_fraction": -0.02,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "EFW": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.01,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.77,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.04,
+   "acetone_recovery": -0.14,
+   "P66614_Cl_amount": 0.02,
+   "HCL_amount": 0.03,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.04,
+   "NaOH_amount": 0.02,
+   "recovery_fraction": -0.03,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "EP": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.0,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.45,
+   "filtration_time": 0.78,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.01,
+   "acetone_recovery": -0.07,
+   "P66614_Cl_amount": 0.02,
+   "HCL_amount": 0.01,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.02,
+   "NaOH_amount": 0.01,
+   "recovery_fraction": -0.04,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "HTC": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.0,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.77,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.03,
+   "acetone_recovery": -0.12,
+   "P66614_Cl_amount": 0.01,
+   "HCL_amount": 0.02,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.03,
+   "NaOH_amount": 0.02,
+   "recovery_fraction": -0.02,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "HTNC": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.01,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.45,
+   "filtration_time": 0.78,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.03,
+   "acetone_recovery": -0.09,
+   "P66614_Cl_amount": 0.01,
+   "HCL_amount": 0.02,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.02,
+   "NaOH_amount": 0.02,
+   "recovery_fraction": -0.02,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "ODP": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.01,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.78,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.12,
+   "acetone_recovery": -0.01,
+   "P66614_Cl_amount": 0.0,
+   "HCL_amount": 0.04,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.0,
+   "NaOH_amount": 0.06,
+   "recovery_fraction": -0.02,
+   "P66614_Cl_cost": -0.01,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "PMFP": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.01,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.77,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.06,
+   "acetone_recovery": -0.14,
+   "P66614_Cl_amount": 0.03,
+   "HCL_amount": 0.04,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.04,
+   "NaOH_amount": 0.03,
+   "recovery_fraction": -0.04,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  },
+  "MIR": {
+   "discount_rate": -0.01,
+   "tax_rate": -0.0,
+   "steel_fraction": -0.0,
+   "concrete_fraction": 0.0,
+   "electricity_cost": -0.01,
+   "ptfe_throughput_t_per_year": -0.01,
+   "grinding_power": 0.38,
+   "vacuum_pump_power": 0.44,
+   "filtration_time": 0.76,
+   "heating_efficiency": -0.09,
+   "residual_liquid_on_solids": 0.01,
+   "latent_heat_drying": 0.02,
+   "drying_efficiency": -0.02,
+   "acid_liquor_HCl_fraction": 0.04,
+   "acetone_recovery": -0.19,
+   "P66614_Cl_amount": 0.02,
+   "HCL_amount": 0.03,
+   "H2O2_amount": -0.0,
+   "acetone_amount": 0.05,
+   "NaOH_amount": 0.02,
+   "recovery_fraction": -0.03,
+   "P66614_Cl_cost": -0.0,
+   "HCL_cost": -0.0,
+   "H2O2_cost": 0.01,
+   "acetone_cost": 0.01,
+   "hotplate_cost": 0.01,
+   "NaOH_cost": 0.0
+  }
+ }
+}
